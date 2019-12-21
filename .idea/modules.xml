@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/syb5.iml" filepath="$PROJECT_DIR$/syb5.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/syb4.iml" filepath="$PROJECT_DIR$/syb4.iml" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
     </modules>
   </component>
 </project>

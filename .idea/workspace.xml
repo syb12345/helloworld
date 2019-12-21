@@ -2,23 +2,55 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
+<<<<<<< HEAD
       <artifact name="syb5:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed6b002b-6429-475b-a02d-ff3d460c290d" name="Default Changelist" comment="" />
+=======
+      <artifact name="syb4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf11264-8e0b-441a-98eb-5e261fbfaa4c" name="Default Changelist" comment="" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="FxmlFile" />
         <option value="Class" />
+=======
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="syb4" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
       </list>
     </option>
   </component>
@@ -29,6 +61,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1T8Ih5RZjEDnf9z8Xc7x8JAxsS0" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -43,6 +76,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\syb5\web" />
     </key>
+=======
+  <component name="ProjectId" id="1T8D74WTPl3MfKeNcqdhwUbt20f" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../syb5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,6 +101,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Tomcat 8.0.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 " />
@@ -64,11 +110,28 @@
         <artifact name="syb5:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
+=======
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.0">
+    <configuration name="first.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8088/syb4_war_exploded/first.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.0.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/syb4_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="syb4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/syb4_war_exploded" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
           </settings>
         </artifact>
       </deployment>
       <server-settings>
+<<<<<<< HEAD
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_syb5" />
+=======
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_syb4" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -76,7 +139,11 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
+<<<<<<< HEAD
         <option name="DEBUG_PORT" value="54041" />
+=======
+        <option name="DEBUG_PORT" value="52952" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -126,16 +193,49 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
+<<<<<<< HEAD
           <artifact name="syb5:war exploded" />
         </option>
       </method>
     </configuration>
+=======
+          <artifact name="syb4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.first.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c974f3cc" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c974f3cc" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@62a451e6" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ed6b002b-6429-475b-a02d-ff3d460c290d" name="Default Changelist" comment="" />
       <created>1572835411507</created>
       <option name="number" value="Default" />
@@ -152,6 +252,16 @@
       <workItem from="1575007329335" duration="2710000" />
       <workItem from="1575013020680" duration="2228000" />
       <workItem from="1576892844563" duration="2336000" />
+=======
+      <changelist id="eaf11264-8e0b-441a-98eb-5e261fbfaa4c" name="Default Changelist" comment="" />
+      <created>1572832658868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572832658868</updated>
+      <workItem from="1572832662477" duration="4089000" />
+      <workItem from="1574925982662" duration="5451000" />
+      <workItem from="1576892829705" duration="13000" />
+>>>>>>> a2d955412cd4644618ee922f2830be68307019c7
     </task>
     <servers />
   </component>
